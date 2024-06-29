@@ -13,7 +13,7 @@ There are some important dependencies:
 - meshplot=0.4.0
 
 For more detailed environment information, please refer to `environment.yml`.
-You can download and extract the dataset form [One Drive](https://1drv.ms/u/s!AknUAqzhZIMYiymLQgO8yinJev-m?e=sKLugp) and put them under the `data` directory.
+You can download and extract the dataset form [OneDrive](https://1drv.ms/u/s!AknUAqzhZIMYiymLQgO8yinJev-m?e=sKLugp) and put them under the `data` directory.
 
 ## Quick start
 
