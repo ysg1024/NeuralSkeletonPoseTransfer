@@ -1,5 +1,5 @@
 The directory structure is:
-`
+```
 ├─data
 │  ├─smal_model
 │  ├─smpl_model
@@ -9,4 +9,4 @@ The directory structure is:
 ├─models
 ├─statedict
 └─utils
-`
+```
